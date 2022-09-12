@@ -1,8 +1,9 @@
 {
 	"name": "Lightbox",
-	"description": "Integration with Lightbox v2.11.1 by Lokesh Dhakar",
-	"version": "1.3.0",
-	"dependencies": {
-		"JQuery": ">=1.2.0"
-	}
+	"description": "Integration with Lightbox v2.11.3 by Lokesh Dhakar",
+	"version": "2.0.0",
+	"dependencies": {},
+	"requires": [
+		"model/assets"
+	]
 }
